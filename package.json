@@ -1,7 +1,7 @@
 {
-  "name": "vite-template-solid",
-  "version": "0.0.0",
-  "description": "",
+  "name": "website",
+  "version": "0.1.0",
+  "description": "The source code for the itsonly.fans website.",
   "scripts": {
     "start": "vite",
     "dev": "vite",
@@ -9,7 +9,7 @@
     "serve": "vite preview",
     "lint": "eslint --ext .tsx,.ts src --fix"
   },
-  "license": "MIT",
+  "license": "Appache-2.0",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.54.0",
     "@typescript-eslint/parser": "^5.54.0",
