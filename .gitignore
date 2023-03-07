@@ -1,2 +1,9 @@
+# ignore the blackhole
 node_modules
+
+# ignore build artifacts
 dist
+build
+
+# ignore workspace file
+*.code-workspace
